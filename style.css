@@ -21,7 +21,7 @@ header{
 span{
     padding: 10px 20px;
     border-radius: 2px;
-    box-shadow: 5px 5px #079;
+    box-shadow: 5px 5px #09b;
 }
 
 .pink{
@@ -38,7 +38,7 @@ span{
 
 /*text will dicatate the rules of most of the text on the page*/ 
 .text{
-  color: #079;
+  color: #09b;
   width: 85%;
   font-size: 20px;
   font-weight: bold;
@@ -47,14 +47,14 @@ span{
 
 .self-portrait{
   margin: 20px;
-  box-shadow: 5px 5px #079;
+  box-shadow: 5px 5px #09b;
 }
 
 .contact-div{
   margin: auto;
   width: 85%;
   font-size: 30px;
-  color: #079;
+  color: #09b;
 }
 
 a{
@@ -64,7 +64,7 @@ a{
 a:link {color: #99f;}
 a:visited {color: #f9f;}
 a:hover {color: #f77; }
-a:active {color: #079}
+a:active {color: #09b}
 
 .contact-links{
   text-decoration: none;
@@ -81,10 +81,11 @@ a:active {color: #079}
 hr{
   width: 85%;
   margin-top: 30px;
-  border-color: #079;
+  border-color: #09b;
 }
 
 footer{
   text-align: center;
-  color: #079;
+  color: #09b;
+  height: 80px;
 }
