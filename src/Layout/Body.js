@@ -56,7 +56,7 @@ function Test() {
             <h3>Podomoro Timer</h3>
             <section className="Article">
                 <div className="subSec">
-                    <a href="https://warm-journey-81167.herokuapp.com/" target="_blank" rel="noreferrer"><img src={pomodoro} alt="Dashboard from the app"/></a>
+                    <a href="https://joshuasorby.github.io/joshua-sorby-portfolio/" target="_blank" rel="noreferrer"><img src={pomodoro} alt="Dashboard from the app"/></a>
                 </div>
 
                 <div className="subSec">

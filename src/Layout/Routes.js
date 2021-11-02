@@ -7,11 +7,11 @@ import Heading from "./Heading";
 function Routes() {
     return (<Router >
             <Switch>
-                <Route exact={true} path="/">
+                <Route path="/joshua-sorby-portfolio">
                     <Heading />
                     <Body />
                 </Route>
-                <Route exact={true} path="/email">
+                <Route exact={true} path="/joshua-sorby-portfolio/email">
                     <Email />
                 </Route>
             </Switch>
