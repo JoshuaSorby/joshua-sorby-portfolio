@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
   text-align: center;
 }
@@ -38,10 +42,16 @@
 }
 .fullPage {
   background-color: #f7fcff;
+  background-size: 10px 10px;
+  background-image: repeating-linear-gradient(45deg, #dadeff 0, #dadeff 1px, #f7fcff 0, #f7fcff 50%);
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute; 
+  top: 0; 
+  left: 0; 
 }
 
 .Layout {
-  max-width: 90%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -55,13 +65,19 @@
 }
 
 .pfp {
-  width: 20vw;
+  height: auto;
+  width: 50%;
   border-radius: 300px;
   margin-right: 3%;
 }
 
 .body h2 {
   padding-top: 9%;
+}
+
+hr {
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /*Navigation Bar*/
@@ -77,16 +93,117 @@ nav {
   padding-bottom: 30px;
 }
 
-nav h3 {
+nav h2 {
   color: white;
   background: linear-gradient(22deg, #7abcce 0%, #9cdeff 100%);
   padding: 10px;
   font-size: 2vw;
   border-radius: 30px;
   box-shadow: 1px 1px 4px #003333;
+  text-decoration: none;
 }
 
-nav h3:hover {
+nav h2:hover {
   background: linear-gradient(22deg, #b9e4f0 0%, #f8f8ff 100%);
   text-shadow: -1px 1px 0 #7abcce;
+  text-decoration: none;
+  transform: scale(102%)
 }
+
+nav h2:active {
+  transform: scale(98%);
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:visited {
+  text-decoration: none;
+}
+
+
+/*Body*/
+.body {
+  display: flex;
+  flex-direction: column;
+  max-width: 95%;
+  justify-content: center;
+  margin: auto;
+}
+
+.body a {
+  text-decoration: none;
+}
+
+.body h3 {
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 5%;
+}
+
+.body img {
+  max-width: 90%;
+  box-shadow: 1px 1px 4px #003333;
+  margin-left: 1%;
+}
+
+ .body img:hover {
+  transform: scale(1.1);
+  outline: 3px solid #7abcce;
+  filter: brightness(105%);
+  transition: 0.1s;
+}
+
+.body img:active {
+  transform: scale(108%);
+}
+
+.Article {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-bottom: 5%;
+}
+
+.subSec {
+  display: flex;
+  flex-direction: column;
+  min-width: 20%;
+}
+
+.skillList {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skillList li{
+  color: white;
+  background: linear-gradient(22deg, #4b95c0 0%, #6ec6d1 100%);
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 10px;
+  font-size: 2vw;
+  border-radius: 30px;
+}
+
+.icon {
+  width: 10vw;
+  background-color: white;
+  border-radius: 300px;
+}
+
+/*Email Form*/
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+
+input, textarea {
+  background-color: #fafaff;
+}
+
