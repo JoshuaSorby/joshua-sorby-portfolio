@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/joshua-sorby-portfolio/static/css/main.7df61f0e.chunk.css",
+    "main.css": "/joshua-sorby-portfolio/static/css/main.83ac9471.chunk.css",
     "main.js": "/joshua-sorby-portfolio/static/js/main.551e0bf5.chunk.js",
     "main.js.map": "/joshua-sorby-portfolio/static/js/main.551e0bf5.chunk.js.map",
     "runtime-main.js": "/joshua-sorby-portfolio/static/js/runtime-main.926adfbc.js",
@@ -8,7 +8,7 @@
     "static/js/2.07ff5aa9.chunk.js": "/joshua-sorby-portfolio/static/js/2.07ff5aa9.chunk.js",
     "static/js/2.07ff5aa9.chunk.js.map": "/joshua-sorby-portfolio/static/js/2.07ff5aa9.chunk.js.map",
     "index.html": "/joshua-sorby-portfolio/index.html",
-    "static/css/main.7df61f0e.chunk.css.map": "/joshua-sorby-portfolio/static/css/main.7df61f0e.chunk.css.map",
+    "static/css/main.83ac9471.chunk.css.map": "/joshua-sorby-portfolio/static/css/main.83ac9471.chunk.css.map",
     "static/js/2.07ff5aa9.chunk.js.LICENSE.txt": "/joshua-sorby-portfolio/static/js/2.07ff5aa9.chunk.js.LICENSE.txt",
     "static/media/Pomodoro.96ec020c.jpg": "/joshua-sorby-portfolio/static/media/Pomodoro.96ec020c.jpg",
     "static/media/flashCards.da1ef969.png": "/joshua-sorby-portfolio/static/media/flashCards.da1ef969.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.926adfbc.js",
     "static/js/2.07ff5aa9.chunk.js",
-    "static/css/main.7df61f0e.chunk.css",
+    "static/css/main.83ac9471.chunk.css",
     "static/js/main.551e0bf5.chunk.js"
   ]
 }
