@@ -10,7 +10,7 @@ function Heading() {
                 <h1>Computer Software Engineer</h1>
                 <h2>About me</h2>
                 <p>My name is Joshua Sorby, I'm a Full-stack software Engineer. Having started my journey into learning how to code back at the
-                    beginning of 2020, I now have roughly two years of experience of learning how to develope code. My love of solving puzzles
+                    beginning of 2020, I now have roughly two years of experience of learning how to develop code. My love of solving puzzles
                     and finding patterns worked as a great vessel to take me into the world of software development and I couldn't be more suited
                     to any other career.
                     <br/><br/>
