@@ -15,7 +15,7 @@ function Heading() {
                     to any other career.
                     <br/><br/>
                     Having gone through Thinkful's Software Engineering Bootcamp, I have created many projects and am finding my place in the
-                    industry. Particulary, building React applications has been the greatest success coming out of the bootcamp. I am continuing 
+                    industry. Particularly, building React applications has been the greatest success coming out of the bootcamp. I am continuing 
                     to work on new personal projects as I further my knowledge and improve my mastery of React, JS, HTML and CSS.
                 </p>
             </div>
