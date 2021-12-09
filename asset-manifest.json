@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/joshua-sorby-portfolio/static/css/main.83ac9471.chunk.css",
-    "main.js": "/joshua-sorby-portfolio/static/js/main.551e0bf5.chunk.js",
-    "main.js.map": "/joshua-sorby-portfolio/static/js/main.551e0bf5.chunk.js.map",
+    "main.js": "/joshua-sorby-portfolio/static/js/main.09f6d448.chunk.js",
+    "main.js.map": "/joshua-sorby-portfolio/static/js/main.09f6d448.chunk.js.map",
     "runtime-main.js": "/joshua-sorby-portfolio/static/js/runtime-main.926adfbc.js",
     "runtime-main.js.map": "/joshua-sorby-portfolio/static/js/runtime-main.926adfbc.js.map",
     "static/js/2.07ff5aa9.chunk.js": "/joshua-sorby-portfolio/static/js/2.07ff5aa9.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.926adfbc.js",
     "static/js/2.07ff5aa9.chunk.js",
     "static/css/main.83ac9471.chunk.css",
-    "static/js/main.551e0bf5.chunk.js"
+    "static/js/main.09f6d448.chunk.js"
   ]
 }
